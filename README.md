@@ -1,5 +1,5 @@
 # BroskiesHub_Task-3
-## Task Name: Capture and Analyze Network Traffic Using Wireshark.
+## Task Name: Capture and analyze live network traffic to identify credentials or suspicious activity
 ## Installation successfull
 <img width="1919" height="976" alt="1" src="https://github.com/user-attachments/assets/7a78f79d-6deb-447e-b486-6d9f6d639c5a" />
 
@@ -47,4 +47,4 @@ See echo request and reply packets when you ping a server.
 1.DNS Queries: Your computer sent DNS queries to resolve domain names, receiving corresponding IP addresses in the responses.<br>
 2.HTTP Requests: When accessing websites, HTTP GET requests were sent, and responses were received, containing the requested web pages.<br>
 3.TCP Handshakes: Before data transmission, TCP connections were established using the three-way handshake process.<br>
-4.ICMP Packets: Using the ping command generated ICMP echo request and reply packets, indicating connectivity with the t
+4.ICMP Packets: Using the ping command generated ICMP echo request and reply packets, indicating connectivity with the 
